@@ -17,7 +17,7 @@ int main()
      if(n==2)
     {
 
-        printf("two");
+        printf("twoo");
     }
      if(n==3)
     {
