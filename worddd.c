@@ -7,7 +7,7 @@ int main()
     if(n==0)
     {
 
-        printf("zero");
+        printf("zero00");
     }
      if(n==1)
     {
