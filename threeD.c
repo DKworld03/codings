@@ -2,7 +2,7 @@
 int main()
 {
     float h , b , l ;
-    printf("enter height for cuboid : ");
+    printf("enter height for cuboids: ");
     scanf("%f",&h);
     printf("enter length for cuboid : ");
     scanf("%f",&l);
