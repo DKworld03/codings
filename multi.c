@@ -5,7 +5,7 @@ int main()
 
     printf("enter the first value for multiplication:");
 scanf("%d",&a);
-printf("enter the second value:");
+printf("enter the second table value:");
 scanf("%d",&b);
 c=a*b;
 printf("your multiplied value is:%d",c);
